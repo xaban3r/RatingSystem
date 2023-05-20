@@ -1,0 +1,185 @@
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\RatingSystem.exe.config
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\Google.Protobuf.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\MySql.Data.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Buffers.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Memory.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\BouncyCastle.Crypto.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\Google.Protobuf.pdb
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\Google.Protobuf.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\MySql.Data.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Buffers.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Memory.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.Form1.resources
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.MainForm.resources
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.Properties.Resources.resources
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.csproj.GenerateResource.cache
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.csproj.CoreCompileInputs.cache
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.csproj.CopyComplete
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\RatingSystemData.mdf
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\RatingSystemData_log.ldf
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.csproj.AssemblyReference.cache
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\Работа\С#\projects\RatingSystem\bin\Debug\MaterialSkin.dll
+D:\Проекты\Работа\С#\projects\RatingSystem\obj\Debug\RatingSystem.EmployeeForm.resources
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\RatingSystem.exe.config
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\Google.Protobuf.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\MaterialSkin.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\MySql.Data.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Buffers.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Memory.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\BouncyCastle.Crypto.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\Google.Protobuf.pdb
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\Google.Protobuf.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\MySql.Data.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Buffers.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Memory.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.csproj.AssemblyReference.cache
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.EmployeeForm.resources
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.Form1.resources
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.MainForm.resources
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.Properties.Resources.resources
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.csproj.GenerateResource.cache
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.csproj.CoreCompileInputs.cache
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.csproj.CopyComplete
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\RatingSystemData.mdf
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\bin\Debug\RatingSystemData_log.ldf
+D:\Проекты\Работа\С#\projects\RS DB\RatingSystem\obj\Debug\RatingSystem.RegisterForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\RatingSystemData.mdf
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\RatingSystemData_log.ldf
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\RatingSystem.exe.config
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Google.Protobuf.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\MaterialSkin.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\MySql.Data.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Buffers.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Memory.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\BouncyCastle.Crypto.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Google.Protobuf.pdb
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Google.Protobuf.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\MySql.Data.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Buffers.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Memory.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.csproj.AssemblyReference.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.EmployeeForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.Form1.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.MainForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.Properties.Resources.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.RegisterForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.csproj.GenerateResource.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.csproj.CoreCompileInputs.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.csproj.CopyComplete
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\final\RatingSystem\obj\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\1.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\2.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\3.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\4.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\5.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\6.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem\bin\Debug\Images\7.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\1.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\2.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\3.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\4.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\5.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\6.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Images\7.jpg
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\RatingSystemData.mdf
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\RatingSystemData_log.ldf
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\RatingSystem.exe.config
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\RatingSystem.pdb
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Google.Protobuf.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\MaterialSkin.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\MySql.Data.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Buffers.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Memory.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\BouncyCastle.Crypto.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Google.Protobuf.pdb
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\Google.Protobuf.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\MySql.Data.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Buffers.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Memory.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.csproj.AssemblyReference.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.EmployeeForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.Form1.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.MainForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.Properties.Resources.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.RegisterForm.resources
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.csproj.GenerateResource.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.csproj.CoreCompileInputs.cache
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.csproj.CopyComplete
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.exe
+D:\Проекты\Работа\С#\projects\final\RatingSystem sup fin\RatingSystem\obj\Debug\RatingSystem.pdb
